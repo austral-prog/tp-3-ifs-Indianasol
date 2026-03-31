@@ -4,4 +4,4 @@ def even_odd():
         print(f"El numero {numero} es par")
     else:
         print(f"El numero {numero} es impar")
-even_odd()
+
